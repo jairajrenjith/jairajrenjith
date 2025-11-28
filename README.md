@@ -8,42 +8,40 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3500&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jairaj+R+%F0%9F%91%8B;Developer+%7C+Tech+Enthusiast;Systems+%7C+Web+%7C+Electronics;Welcome+To+My+GitHub+Space!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3500&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jairaj+R+%F0%9F%91%8B;Aspiring+Software+Engineer;C+++%7C+Python+%7C+AI+%7C+Systems;Welcome+To+My+GitHub+Space!" />
 </h1>
 
 ---
 
 ## 👨‍💻 About Me
-I'm **Jairaj R**, a passionate engineering student exploring systems, logic, hardware & software development. I love understanding how tech works *beyond the UI* — from circuits to web stacks to Linux internals.
+I'm **Jairaj R**, a BTech student passionate about programming, system design, and AI experimentation.  
+I enjoy **building projects that simulate real-world systems**, exploring **digital electronics**, and developing tools that enhance **productivity and focus**.  
 
-🚀 Building | Breaking | Fixing | Learning  
-📌 Strong Interest in: System Design • Electronics • AI/ML • Web Dev  
+📌 Currently focused on:  
+- Mastering **C++ & DSA**  
+- Learning **AI/ML models**  
+- Building **real-world projects** (like AetherOS)  
+- Exploring **Python scripting & automation**
 
 ---
 
 ## 🛠️ Skillset Overview
 
-### **Programming**
+### **Programming & DSA**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 </p>
 
-### **Web Development**
+### **Web Development / Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,github,vscode,linux" />
 </p>
 
-### **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
-
-### **Hardware / Electronics**
-- Verilog HDL
-- Digital Logic Design
-- JK / D / T Flip-Flops
-- Async / Sync Counters
-- K-Maps | FSM | Combinational / Sequential Logic
+### **Electronics / Hardware**
+- Verilog HDL, Digital Logic Design  
+- JK / D / T Flip-Flops  
+- Async / Sync Counters, FSM (Mealy/Moore)  
+- K-Maps, Combinational & Sequential Logic  
 
 ---
 
@@ -66,22 +64,20 @@ I'm **Jairaj R**, a passionate engineering student exploring systems, logic, har
 
 ## 🚀 Featured Projects
 
-### 🔹 **Verilog / Hardware**
-- Testbench-based Flip-Flops (JK/D/T)
-- Sync/Async Counters
-- FSM + Optimized Logic Circuits
+### 🔹 **AetherOS**
+- Simulated desktop operating system  
+- Terminal & focus mode  
+- Emotion-aware system design  
 
-### 🔹 **Web Development**
-- Personal Portfolio
-- UI Components & Micro-Interactions
-- Responsive Web Interfaces
+### 🔹 **Verilog Projects**
+- Async & Sync Counters  
+- JK / D / T Flip-Flops  
+- Testbenches included  
 
-### 🔹 **Cybersecurity / Linux**
-- Bash automation scripts
-- Networking commands & toolkit
-- Linux fundamentals & hardening basics
-
-> *(More polished projects coming — active development ongoing)*
+### 🔹 **Web / Mini Projects**
+- Personal Portfolio UI (Coming Soon)  
+- Minimal UI Components  
+- Responsive Layouts  
 
 ---
 
@@ -93,6 +89,9 @@ I'm **Jairaj R**, a passionate engineering student exploring systems, logic, har
   </a>
   <a href="https://www.linkedin.com/in/jairaj-r-47a930333">
     <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  </a>
+  <a href="https://personal-portfolio-link.com">
+    <img src="https://skillicons.dev/icons?i=website" height="42"/> Coming Soon
   </a>
 </p>
 
