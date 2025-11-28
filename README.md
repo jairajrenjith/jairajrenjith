@@ -20,7 +20,7 @@ I enjoy **building projects that simulate real-world systems**, exploring **digi
 📌 Currently focused on:  
 - Mastering **C++ & DSA**  
 - Learning **AI/ML models**  
-- Building **real-world projects** (like AetherOS)  
+- Building **real-world systems** (like AetherOS)  
 - Exploring **Python scripting & automation**
 
 ---
@@ -38,11 +38,38 @@ I enjoy **building projects that simulate real-world systems**, exploring **digi
 </p>
 
 ### **Electronics / Hardware**
-- Verilog HDL
-- Digital Logic Design
-- JK / D / T Flip-Flops
-- Async / Sync Counters, FSM (Mealy/Moore)
+- Verilog HDL  
+- Digital Logic Design  
+- JK / D / T Flip-Flops  
+- Async / Sync Counters, FSM (Mealy/Moore)  
 - K-Maps, Combinational & Sequential Logic
+
+---
+
+## 🌐 Personal Portfolio
+<p>
+  <strong>My portfolio is my life’s work and digital presence. Currently under development.</strong>  
+  <br/>
+  🔹 **Link:** Coming Soon  
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 **AetherOS**
+- Simulated desktop operating system  
+- Terminal & focus mode  
+- Emotion-aware system design  
+
+### 🔹 **Verilog Projects**
+- Async & Sync Counters  
+- JK / D / T Flip-Flops  
+- Testbenches included  
+
+### 🔹 **Web / Mini Projects**
+- Minimal UI Components  
+- Responsive Layouts  
 
 ---
 
@@ -63,25 +90,6 @@ I enjoy **building projects that simulate real-world systems**, exploring **digi
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 **AetherOS**
-- Simulated desktop operating system  
-- Terminal & focus mode  
-- Emotion-aware system design  
-
-### 🔹 **Verilog Projects**
-- Async & Sync Counters  
-- JK / D / T Flip-Flops  
-- Testbenches included  
-
-### 🔹 **Web / Mini Projects**
-- Personal Portfolio UI (Coming Soon)  
-- Minimal UI Components  
-- Responsive Layouts  
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -91,10 +99,6 @@ I enjoy **building projects that simulate real-world systems**, exploring **digi
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jairaj-r-47a930333" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="42"/> LinkedIn
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://personal-portfolio-link.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=website" height="42"/> Personal Portfolio: Coming Soon
   </a>
 </p>
 
