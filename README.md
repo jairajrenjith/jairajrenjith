@@ -38,10 +38,11 @@ I enjoy **building projects that simulate real-world systems**, exploring **digi
 </p>
 
 ### **Electronics / Hardware**
-- Verilog HDL, Digital Logic Design  
-- JK / D / T Flip-Flops  
-- Async / Sync Counters, FSM (Mealy/Moore)  
-- K-Maps, Combinational & Sequential Logic  
+- Verilog HDL
+- Digital Logic Design
+- JK / D / T Flip-Flops
+- Async / Sync Counters, FSM (Mealy/Moore)
+- K-Maps, Combinational & Sequential Logic
 
 ---
 
@@ -83,15 +84,17 @@ I enjoy **building projects that simulate real-world systems**, exploring **digi
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://github.com/jairajrenjith">
-    <img src="https://skillicons.dev/icons?i=github" height="42"/>
+<p align="center">
+  <a href="https://github.com/jairajrenjith" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="42"/> GitHub
   </a>
-  <a href="https://www.linkedin.com/in/jairaj-r-47a930333">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jairaj-r-47a930333" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/> LinkedIn
   </a>
-  <a href="https://personal-portfolio-link.com">
-    <img src="https://skillicons.dev/icons?i=website" height="42"/> Coming Soon
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://personal-portfolio-link.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=website" height="42"/> Personal Portfolio: Coming Soon
   </a>
 </p>
 
