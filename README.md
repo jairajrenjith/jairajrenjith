@@ -85,18 +85,6 @@ I'm **Jairaj R**, a passionate engineering student exploring systems, logic, har
 
 ---
 
-## 🧭 Learning Roadmap (2025+)
-
-| Phase | Focus |
-|------|--------|
-| 🔹 Stage 1 | DSA + C++ mastery |
-| 🔹 Stage 2 | OS Simulation Projects |
-| 🔹 Stage 3 | AI/ML — Model Training & Deployment |
-| 🔹 Stage 4 | Full-Stack Production Apps |
-| 🔹 Stage 5 | Internship & Large-Scale Systems |
-
----
-
 ## 🌐 Connect With Me
 
 <p>
