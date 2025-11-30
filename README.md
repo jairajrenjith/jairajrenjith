@@ -14,11 +14,6 @@
   />
 </h1>
 
-<!-- Fallback heading if image fails -->
-<p align="center">
-  <b>Hi, I'm Jairaj R • AI | DSA | Engineer in progress 🚀</b>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
