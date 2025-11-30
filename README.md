@@ -9,7 +9,7 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jairaj+R;Aspiring+Engineer;AI+|+DSA+|+Programming+Languages;Welcome+To+My+GitHub+Space!" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jairaj+R;Aspiring+Engineer;AI+%7C+DSA+%7C+Programming+Languages;Welcome+To+My+GitHub+Space!"
     alt="Typing SVG"
   />
 </h1>
