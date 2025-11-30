@@ -97,7 +97,7 @@ I enjoy **building projects that simulate real-world systems**, exploring **digi
   <a href="https://github.com/jairajrenjith" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="42"/>
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/jairaj-r-47a930333" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
   </a>
