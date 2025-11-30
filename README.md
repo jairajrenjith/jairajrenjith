@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3500&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jairaj+R+%F0%9F%91%8B;Aspiring+Software+Engineer;C+++%7C+Python+%7C+AI+%7C+Systems;Welcome+To+My+GitHub+Space!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3500&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jairaj+R;Aspiring+Engineer;AI+%7C+DSA+%7C+Programming Languages;Welcome+To+My+GitHub+Space!" />
 </h1>
 
 ---
