@@ -95,13 +95,14 @@ I enjoy **building projects that simulate real-world systems**, exploring **digi
 
 <p align="left">
   <a href="https://github.com/jairajrenjith" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="42"/>
+    <img src="https://skillicons.dev/icons?i=github" height="42" style="vertical-align:middle; border:0;">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/jairaj-r-47a930333" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" style="vertical-align:middle; border:0;">
   </a>
 </p>
+
 
 ---
 
