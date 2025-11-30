@@ -14,8 +14,6 @@
   />
 </h1>
 
----
-
 ## 👨‍💻 About Me
 I'm **Jairaj R**, a BTech student passionate about programming, system design, and AI experimentation.  
 I enjoy **building projects that simulate real-world systems**, exploring **digital electronics**, and developing tools that enhance **productivity and focus**.  
