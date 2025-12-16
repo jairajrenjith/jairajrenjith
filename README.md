@@ -1,16 +1,11 @@
-<!-- ======================================================= -->
-<!--                 J A I R A J  R  — GitHub Profile        -->
-<!--   Professional • Minimal Neon • Clean Tech Presentation -->
-<!-- ======================================================= -->
-
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </p>
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jairaj+R;Aspiring+Developer;Problem+Solving+%7C+Full+Stack+%7C+AI;Welcome+To+My+GitHub+Space!"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jairaj+R;Aspiring+Developer;Problem+Solving+%7C+Full+Stack+%7C+AI;Welcome+To+My+GitHub+Space!" 
+    alt="Typing SVG" 
   />
 </h1>
 
@@ -31,22 +26,22 @@ I enjoy working across the stack using modern web technologies, experimenting wi
 ## 🛠️ Skillset Overview
 
 ### **Programming & Problem Solving**
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 </p>
 
 ### **Full-Stack Web Development**
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express" />
 </p>
 
 ### **AI / Computer Vision**
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow" />
 </p>
 
 ### **Developer Tools & Platforms**
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
 </p>
 
@@ -100,11 +95,11 @@ I enjoy working across the stack using modern web technologies, experimenting wi
 
 <p align="left">
   <a href="https://github.com/jairajrenjith" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="42"/>
+    <img src="https://skillicons.dev/icons?i=github" height="42" alt="github"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/jairaj-r-47a930333" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="linkedin"/>
   </a>
 </p>
 
