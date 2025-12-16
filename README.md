@@ -9,49 +9,53 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jairaj+R;Aspiring+Engineer;AI+%7C+DSA+%7C+Programming+Languages;Welcome+To+My+GitHub+Space!"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jairaj+R;Aspiring+Developer;Problem+Solving+%7C+Full+Stack+%7C+AI;Welcome+To+My+GitHub+Space!"
     alt="Typing SVG"
   />
 </h1>
 
 ## 👨‍💻 About Me
-I'm **Jairaj R**, a BTech student passionate about programming, system design, and AI experimentation.  
-I enjoy **building projects that simulate real-world systems**, exploring **digital electronics**, and developing tools that enhance **productivity and focus**.  
+I'm **Jairaj R**, a **second-year Computer Science and Engineering student** at the **College of Engineering Trivandrum**.  
+I’m passionate about **problem-solving**, **full-stack web development**, and building projects that turn ideas into real, usable systems.
 
-📌 Currently focused on:  
-- Mastering **C++ & DSA**  
-- Learning **AI/ML models**  
-- Building **real-world systems** (like AetherOS)  
-- Exploring **Python scripting & automation**
+I enjoy working across the stack using modern web technologies, experimenting with **AI models**, and building intelligent solutions using **OpenCV**. I like understanding systems end-to-end while paying attention to both the **big picture** and **fine implementation details**.
+
+📌 Currently focused on:
+- Strengthening **C++ & Data Structures / Algorithms**
+- Building **full-stack applications**
+- Experimenting with **AI models & computer vision**
+- Writing clean, scalable, and maintainable code
 
 ---
 
 ## 🛠️ Skillset Overview
 
-### **Programming & DSA**
+### **Programming & Problem Solving**
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 </p>
 
-### **Web Development / Tools**
+### **Full-Stack Web Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express" />
 </p>
 
-### **Electronics / Hardware**
-- Verilog HDL  
-- Digital Logic Design  
-- JK / D / T Flip-Flops  
-- Async / Sync Counters, FSM (Mealy/Moore)  
-- K-Maps, Combinational & Sequential Logic
+### **AI / Computer Vision**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow" />
+</p>
+
+### **Developer Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+</p>
 
 ---
 
 ## 🌐 Personal Portfolio
 <p>
-  <strong>My portfolio is my life’s work and digital presence. Currently under development.</strong>  
-  <br/>
-  🔹 **Link:** Coming Soon  
+  <strong>My portfolio represents my journey, projects, and growth as a developer.</strong><br/>
+  🔹 <strong>Link:</strong> Coming Soon
 </p>
 
 ---
@@ -59,18 +63,19 @@ I enjoy **building projects that simulate real-world systems**, exploring **digi
 ## 🚀 Featured Projects
 
 ### 🔹 **AetherOS**
-- Simulated desktop operating system  
-- Terminal & focus mode  
-- Emotion-aware system design  
+- Simulated desktop operating system concept  
+- Focus mode, terminal, and system-level interactions  
+- Designed for clarity, calm, and productivity  
 
-### 🔹 **Verilog Projects**
-- Async & Sync Counters  
-- JK / D / T Flip-Flops  
-- Testbenches included  
+### 🔹 **AI / OpenCV Projects**
+- Computer vision–based utilities  
+- Image processing and automation experiments  
+- Practical AI-driven features  
 
-### 🔹 **Web / Mini Projects**
-- Minimal UI Components  
-- Responsive Layouts  
+### 🔹 **Web & Full-Stack Projects**
+- Responsive, minimal UI applications  
+- React / Next.js frontends  
+- Node.js backend APIs  
 
 ---
 
@@ -95,14 +100,13 @@ I enjoy **building projects that simulate real-world systems**, exploring **digi
 
 <p align="left">
   <a href="https://github.com/jairajrenjith" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="42" style="vertical-align:middle; border:0;">
+    <img src="https://skillicons.dev/icons?i=github" height="42"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/jairaj-r-47a930333" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" style="vertical-align:middle; border:0;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
   </a>
 </p>
-
 
 ---
 
