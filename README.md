@@ -90,10 +90,6 @@ I enjoy working across the stack using modern web technologies, experimenting wi
   <img src="https://streak-stats.demolab.com?user=jairajrenjith&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jairajrenjith&theme=react-dark&hide_border=true&area=true" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
