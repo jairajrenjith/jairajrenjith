@@ -20,7 +20,7 @@ jairaj = {
     "name"      : "Jairaj R",
     "location"  : "Thiruvananthapuram, Kerala, India",
     "degree"    : "B.Tech CSE @ College of Engineering Trivandrum (CET)",
-    "focus"     : ["AI / Multi-Agent Systems", "Full-Stack Web Dev", "RAG Pipelines"],
+    "focus"     : ["AI / Multi-Agent Systems", "Full-Stack Web Dev", "DSA"],
     "currently" : "Building intelligent systems & competing in hackathons",
     "website"   : "https://jairajr.vercel.app/",
 }
