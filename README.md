@@ -1,9 +1,13 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jairaj+R+%F0%9F%91%8B;AI+%26+Full-Stack+Developer;Multi-Agent+Systems+Builder;Hackathon+Finalist+%26+Winner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Jairaj+R;AI+%26+Full-Stack+Developer;Multi-Agent+Systems+Builder;Hackathon+Winner)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7928CA&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-jairajr.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://jairajr.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jairaj_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jairaj-r-47a930333)
+[![Gmail](https://img.shields.io/badge/Gmail-jairajrenjith@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jairajrenjith@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jairajrenjith-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jairajrenjith)
 
 </div>
 
@@ -14,17 +18,17 @@
 ```python
 jairaj = {
     "name"      : "Jairaj R",
-    "location"  : "Thiruvananthapuram, Kerala 🇮🇳",
-    "degree"    : "B.Tech CSE @ College of Engineering Trivandrum",
-    "cgpa"      : 8.73,
-    "focus"     : ["AI / Multi-Agent Systems", "Full-Stack Web Dev", "Hackathons"],
-    "currently" : "Building intelligent systems & winning hackathons",
+    "location"  : "Thiruvananthapuram, Kerala, India",
+    "degree"    : "B.Tech CSE @ College of Engineering Trivandrum (CET)",
+    "focus"     : ["AI / Multi-Agent Systems", "Full-Stack Web Dev", "RAG Pipelines"],
+    "currently" : "Building intelligent systems & competing in hackathons",
+    "website"   : "https://jairajr.vercel.app/",
 }
 ```
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -52,10 +56,10 @@ jairaj = {
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge&logo=llamaindex&logoColor=white)
 
-**Tools & OS**
+**Developer Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -67,50 +71,72 @@ jairaj = {
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Multi-Agent Research Intelligence System
-> *Techashy Hackathon 2026*
+**Multi-Agent Research Intelligence System**
+*Techashy Hackathon 2026*
 
-Reflective multi-agent pipeline using **DeepSeek R1**, **Groq Llama 3.3 70B**, and **Cerebras Llama 3.1 70B**. Sequential Supervisor → Pros → Cons → Future agent architecture with ArXiv RAG via ChromaDB + sentence-transformers. LiteLLM multi-provider routing with automatic failover.
+Reflective multi-agent pipeline using DeepSeek R1, Groq Llama 3.3 70B, and Cerebras Llama 3.1 70B. Sequential Supervisor → Pros → Cons → Future agent architecture. ArXiv RAG via ChromaDB and sentence-transformers. LiteLLM multi-provider routing with automatic failover.
 
 `Multi-Agent` `RAG` `LiteLLM` `ChromaDB` `ArXiv API`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Blind Server — Anonymous Learning Platform
-> *TechThrive 2.0 Hackathon 2026*
+**Blind Server — Anonymous Learning Platform**
+*TechThrive 2.0 Hackathon 2026*
 
-Zero-Knowledge-inspired adaptive learning with **complete client-side evaluation** — no sessions, no database, no user tracking. Stateless FastAPI backend + Fernet encryption with timestamp-based token validation.
+Zero-Knowledge-inspired adaptive learning with complete client-side quiz evaluation — no sessions, no database, no user tracking. Stateless FastAPI backend with Fernet encryption and timestamp-based token validation for secure, private content delivery.
 
-`FastAPI` `Zero-Knowledge` `Privacy-First` `Fernet` `Stateless`
+`FastAPI` `Zero-Knowledge` `Fernet` `Stateless` `Privacy-First`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 Kashmiri Multilingual Audio Intelligence Agent
-> *GNOSIS Hackathon, Incepta 2026 — 🥉 3rd Place*
+**Kashmiri Multilingual Audio Intelligence Agent**
+*GNOSIS Hackathon, Incepta 2026 — 3rd Place*
 
-Offline multilingual audio analysis for **Kashmiri, Hindi & Urdu** speech. Pipeline: noise reduction → Faster-Whisper ASR → MarianMT translation → spaCy NER → 3-tier risk classification with keyword threat detection.
+Offline multilingual audio analysis system for Kashmiri, Hindi, and Urdu speech. Pipeline: noise reduction → Faster-Whisper ASR → MarianMT translation → spaCy NER → deterministic 3-tier risk classification with keyword-based threat detection.
 
 `Faster-Whisper` `MarianMT` `spaCy` `NER` `Risk Classification`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏅 AI Semiconductor Datasheet Chatbot
-> *Via CampusConnect Hackathon 2025 — 🥇 Winner*
+**AI Semiconductor Datasheet Chatbot**
+*Via CampusConnect Hackathon 2025 — Winner*
 
-RAG-powered chatbot for natural-language querying of semiconductor datasheets. BGE embeddings → Qdrant vector store → LlamaIndex + TinyLlama/Qwen for context-grounded responses.
+RAG-powered chatbot for natural-language querying of semiconductor datasheets. BGE embeddings stored in Qdrant for similarity retrieval. LlamaIndex + TinyLlama/Qwen for accurate, context-grounded responses.
 
 `RAG` `Qdrant` `LlamaIndex` `BGE Embeddings` `TinyLlama`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**AI-based E-Waste Classification System**
+*Dekathon 3.0 Hackathon 2025*
+
+AI prototype classifying electronic waste into 5+ categories using TensorFlow. Built image preprocessing pipelines that improved multi-class classification accuracy. Presented working prototype and technical workflow to a judging panel.
+
+`TensorFlow` `Image Classification` `CNN` `E-Waste` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+**Logistics and Delivery Management System**
+*Academic Project 2025*
+
+Desktop logistics management application in Java Swing with SQLite via JDBC. Handles delivery records, inventory, shipment tracking, and user management across 4 core modules with full CRUD. Intuitive GUI for real-time monitoring across all record categories.
+
+`Java Swing` `JDBC` `SQLite` `CRUD` `Desktop App`
 
 </td>
 </tr>
@@ -118,21 +144,21 @@ RAG-powered chatbot for natural-language querying of semiconductor datasheets. B
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
-| 🥇 | **Winner** — Via CampusConnect Hackathon (AI/ML) |
+| | |
 |:---:|:---|
-| 🥉 | **3rd Place** — GNOSIS Hackathon, Incepta 2026 (20+ teams) |
-| 👑 | **Team Lead** across 4 competitive hackathons |
-| 📚 | **CGPA 8.73/10** — Top tier, 3 semesters @ CET |
+| ![winner](https://img.shields.io/badge/Winner-Via_CampusConnect_Hackathon-FFD700?style=flat-square&logo=trophy&logoColor=black) | AI/ML solution for semiconductor chip dataset analysis |
+| ![3rd](https://img.shields.io/badge/3rd_Place-GNOSIS_Hackathon_Incepta_2026-CD7F32?style=flat-square&logo=trophy&logoColor=white) | Competed against 20+ teams with Kashmiri Audio Intelligence Agent |
+| ![lead](https://img.shields.io/badge/Team_Lead-4_Hackathons-0A66C2?style=flat-square&logo=github&logoColor=white) | Directed cross-functional teams delivering AI and software solutions |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -143,41 +169,27 @@ RAG-powered chatbot for natural-language querying of semiconductor datasheets. B
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jairajrenjith&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jairajrenjith&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
 ---
 
-## 🧠 Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/jairajrenjith)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/jairajrenjith)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jairajrenjith)
 
-**100+ problems solved** across LeetCode, HackerRank & CodeChef in **Python** and **C**
-
-</div>
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-jairajrenjith@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jairajrenjith@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jairaj_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jairaj-r-47a930333)
-[![GitHub](https://img.shields.io/badge/GitHub-jairajrenjith-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jairajrenjith)
+100+ problems solved in Python and C across arrays, graphs, dynamic programming, and recursion.
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:00D9FF,100:0D1117&height=100&section=footer" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jairajrenjith&color=00d9ff&style=flat-square&label=Profile+Views)
 
