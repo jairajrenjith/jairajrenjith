@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Jairaj+R;%24+cat+role.txt+%E2%86%92+AI+%26+Full-Stack+Developer;%24+run+--mode+multi-agent+--rag;%24+git+commit+-m+%22keep+shipping%22" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://jairajr.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-jairajr.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/jairaj-r-47a930333"><img src="https://img.shields.io/badge/LINKEDIN-Jairaj_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
