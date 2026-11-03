@@ -251,7 +251,7 @@ Incepta 2026
 
 **Via CampusConnect Hackathon**
 
-AI Semiconductor Datasheet Chatbot
+AI Semiconductor Chatbot
 
 </td>
 </tr>
