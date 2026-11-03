@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0B3C5D,100:00D9FF&height=220&section=header&text=JAIRAJ%20R&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Multi-Agent%20Systems%20Builder&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<h1>&lt; JAIRAJ R /&gt;</h1>
+
+<b><code>AI &amp; Full-Stack Developer</code> &nbsp;|&nbsp; <code>Multi-Agent Systems Builder</code></b>
+
+<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Jairaj+R;%24+cat+role.txt+%E2%86%92+AI+%26+Full-Stack+Developer;%24+run+--mode+multi-agent+--rag;%24+git+commit+-m+%22keep+shipping%22" alt="Typing SVG" />
@@ -22,7 +26,7 @@
 
 <br/>
 
-## `about`
+## `~/about`
 
 ```bash
 jairaj@dev:~$ cat about.md
@@ -32,9 +36,9 @@ jairaj@dev:~$ cat about.md
 >
 > Passionate about web development and engineering scalable, user-focused solutions through modern technologies. Focused on software engineering practices, problem solving, and delivering efficient systems through coding, backend logic, and cross-functional technical projects.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0D1117&height=2&section=header" width="100%" alt="divider" />
+---
 
-## `stack`
+## `~/stack`
 
 ```bash
 jairaj@dev:~$ ls ./stack
@@ -75,9 +79,9 @@ jairaj@dev:~$ ls ./stack
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black&labelColor=0D1117" alt="Google Colab" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0D1117&height=2&section=header" width="100%" alt="divider" />
+---
 
-## `experience`
+## `~/experience`
 
 ```bash
 jairaj@dev:~$ git log --oneline --experience
@@ -114,9 +118,9 @@ jairaj@dev:~$ git log --oneline --experience
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0D1117&height=2&section=header" width="100%" alt="divider" />
+---
 
-## `projects`
+## `~/projects`
 
 ```bash
 jairaj@dev:~$ ls -la ./selected_work
@@ -226,9 +230,9 @@ An 8-bit computer assembled using breadboard-based circuits.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0D1117&height=2&section=header" width="100%" alt="divider" />
+---
 
-## `recognition`
+## `~/recognition`
 
 ```bash
 jairaj@dev:~$ cat achievements.log
@@ -237,32 +241,35 @@ jairaj@dev:~$ cat achievements.log
 <table>
 <tr>
 <td align="center" width="50%">
-
-### 🥉 3rd Place
-
-**GNOSIS Hackathon**
-
-Incepta 2026
-
+<h3>🥉 3rd Place</h3>
+<b>GNOSIS Hackathon</b><br/>
+Incepta 2026<br/><br/>
+<sub>Kashmiri Multilingual Audio Intelligence Agent<br/>20+ competing teams</sub>
 </td>
 <td align="center" width="50%">
-
-### 🏆 Winner
-
-**Via CampusConnect Hackathon**
-
-AI Semiconductor Chatbot
-
+<h3>🏆 Winner</h3>
+<b>Via CampusConnect Hackathon</b><br/>
+2025<br/><br/>
+<sub>AI Semiconductor Datasheet Chatbot<br/>&nbsp;</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<h3>👥 4+</h3>
+<b>Hackathons Led</b><br/><br/>
+<sub>Coordinating technical development<br/>and solution delivery</sub>
+</td>
+<td align="center" width="50%">
+<h3>💻 100+</h3>
+<b>Problems Solved</b><br/><br/>
+<sub>Across LeetCode, HackerRank,<br/>and CodeChef</sub>
 </td>
 </tr>
 </table>
 
-- Led teams across 4+ hackathons, coordinating technical development and solution delivery.
-- Solved 100+ algorithmic problems across LeetCode, HackerRank, and CodeChef.
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0D1117&height=2&section=header" width="100%" alt="divider" />
-
-## `community`
+## `~/community`
 
 ```bash
 jairaj@dev:~$ cat community.conf
@@ -281,9 +288,9 @@ jairaj@dev:~$ cat community.conf
 - GitHub, Copilot & Prompt Engineering Tools — Microsoft
 - Problem Solving & Innovation — Wadhwani Foundation
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:0D1117&height=2&section=header" width="100%" alt="divider" />
+---
 
-## `github`
+## `~/github`
 
 <div align="center">
 
@@ -296,5 +303,3 @@ jairaj@dev:~$ cat community.conf
 <a href="https://www.codechef.com/users/jairajrenjith"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117" alt="CodeChef" /></a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0B3C5D,100:0D1117&height=120&section=footer" width="100%" alt="footer" />
