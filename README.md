@@ -1,10 +1,5 @@
 <div align="center">
 
-<h1>&lt; JAIRAJ R /&gt;</h1>
-
-<b><code>AI &amp; Full-Stack Developer</code> &nbsp;|&nbsp; <code>Multi-Agent Systems Builder</code></b>
-
-<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Jairaj+R;%24+cat+role.txt+%E2%86%92+AI+%26+Full-Stack+Developer;%24+run+--mode+multi-agent+--rag;%24+git+commit+-m+%22keep+shipping%22" alt="Typing SVG" />
@@ -26,7 +21,7 @@
 
 <br/>
 
-## `~/about`
+## `about`
 
 ```bash
 jairaj@dev:~$ cat about.md
@@ -38,7 +33,7 @@ jairaj@dev:~$ cat about.md
 
 ---
 
-## `~/stack`
+## `stack`
 
 ```bash
 jairaj@dev:~$ ls ./stack
@@ -81,7 +76,7 @@ jairaj@dev:~$ ls ./stack
 
 ---
 
-## `~/experience`
+## `experience`
 
 ```bash
 jairaj@dev:~$ git log --oneline --experience
@@ -104,7 +99,7 @@ jairaj@dev:~$ git log --oneline --experience
 
 </details>
 
-<details>
+<details open>
 <summary><b>⚪ Research Intern · Explainable Recommendation using Embeddings</b> &nbsp; <code>May – Jun 2026</code></summary>
 
 <br/>
@@ -120,7 +115,7 @@ jairaj@dev:~$ git log --oneline --experience
 
 ---
 
-## `~/projects`
+## `projects`
 
 ```bash
 jairaj@dev:~$ ls -la ./selected_work
@@ -232,7 +227,7 @@ An 8-bit computer assembled using breadboard-based circuits.
 
 ---
 
-## `~/recognition`
+## `recognition`
 
 ```bash
 jairaj@dev:~$ cat achievements.log
@@ -269,7 +264,7 @@ Incepta 2026<br/><br/>
 
 ---
 
-## `~/community`
+## `community`
 
 ```bash
 jairaj@dev:~$ cat community.conf
@@ -290,7 +285,7 @@ jairaj@dev:~$ cat community.conf
 
 ---
 
-## `~/github`
+## `github`
 
 <div align="center">
 
